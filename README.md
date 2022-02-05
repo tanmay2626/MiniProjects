@@ -3,6 +3,7 @@ Frontend Mini Projects made using HTML , CSS ,  Bootstrap , Javascript
 
 Projects included are as follow:
 -Clock
+-Word Counter
 -Tip Calculator
 -Rock Paper Scissors
 -Quote Generator
