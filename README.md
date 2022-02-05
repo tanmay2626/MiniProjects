@@ -1,6 +1,10 @@
 # MiniProjects
 Frontend Mini Projects made using HTML , CSS ,  Bootstrap , Javascript
 
+- Item 1
+- Item 2
+- Item 3
+
 Projects included are as follow:
 -Clock
 -Word Counter
