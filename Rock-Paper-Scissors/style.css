@@ -1,0 +1,56 @@
+body{
+    background-color: #0F2C67;
+    font-family: 'Press Start 2P', cursive;
+    color: #F3950D;
+    margin: 0;
+}
+h2{
+    font-family: 'Orbitron', sans-serif;
+    color: #CD1818;
+}
+.header{
+    margin-top: 50px;
+    text-align: center;
+}
+.heading{
+    font-size: 2.5rem;
+}
+.box{
+    margin-top: 100px;
+    width: 1000px;
+    height: 400px;
+}
+.side{
+    text-align: center;
+    height: 400px;
+    padding-top: 50px;
+}
+.side-box{
+    background-color: #142F43;
+    width: 100%;
+    height: 300px;
+    border-radius: 20px;
+    border-style: solid;
+    border: 20px;
+    border-color: green;
+}
+.mid{
+    display: table;
+    height: 400px;
+    text-align: center;
+}
+.mid-txt{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 4rem;
+    font-family: 'Orbitron', sans-serif;
+    color: #CD1818;
+}
+.rps{
+    width: 100%;
+    height: 100%;
+}
+.win{
+    background-color: #CD1818;
+}
+

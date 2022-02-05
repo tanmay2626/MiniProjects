@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 20px;
+    background-color: #000000;
+    color: white;
+}
+.heading{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    font-weight: 600;
+}
+.box{
+    margin-top: 50px;
+}
+.box-1{
+    text-align: left;
+}
+.box-2{
+    display: table;
+    text-align: center;
+}
+.val{
+    color: #49FF00;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 15rem;
+    font-family: 'Orbitron', sans-serif;
+}
+.count{
+    margin-top: 40px;
+}

@@ -1,0 +1,42 @@
+/* body{
+    margin: 0;
+}
+.btn-target{
+    margin-top: 300px;
+    margin-left: 700px;
+}
+.btn-close{
+    margin-left: auto;
+    padding: 10px;
+} */
+
+
+body{
+    background-color: #0F2C67;
+    margin: 0;
+}
+.target{
+    padding: 20px;
+}
+.modal-box{
+    background-color: white;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    visibility: hidden;
+    overflow: hidden;
+}
+.close-btn{
+    height: 30px;
+    margin-left: 350px; 
+}
+.content{
+    width: 400px;
+    height: 170px;
+    display: table;
+    text-align: center;
+}
+span{
+    display: table-cell;
+    vertical-align: middle;
+}

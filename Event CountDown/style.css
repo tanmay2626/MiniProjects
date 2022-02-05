@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background-color: #142F43;
+    color: white;
+}
+.header{
+    margin-top: 40px;
+    text-align: center;
+}
+.box{
+    height: 450px;
+    margin-top: 40px;
+}
+.left{
+    height: 450px;
+}
+.date-box{
+    padding: 50px;
+    height: 225px;
+    width: 100%;
+}
+.time-box{
+    padding: 50px;
+    height: 225px;
+    width: 100%;
+}
+.right{
+    display: table;
+    height: 450px;
+    text-align: center;
+}
+.value{
+    display: table-cell;
+    color: #49FF00;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 5rem;
+    vertical-align: middle;
+}

@@ -1,0 +1,82 @@
+body{
+    background-color: #142850;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+h1{
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+    padding: 30px;
+}
+h2{
+    font-size: 2rem;
+    color: #F0F5F9;
+}
+h4{
+    color: #C9D6DF;
+}
+
+.review{
+    color: #F0F5F9;
+}
+.slider{
+    background-color: #1D2D50;
+    margin-top: 50px;
+    height: 500px;
+}
+.client-box{
+    padding-top: 80px;
+}
+.profile-box{
+    width: 500px;
+    padding-top: 10px;
+    margin-left: 150px;
+}
+.profile-img{
+    height: 100px;
+    width: 100px;
+}
+.profile-l{
+    text-align: right;
+    margin: auto;
+}
+.profile-r{
+    padding-top: 15px;
+}
+.name{
+    text-align: left;
+    color: #C9D6DF;
+    font-size: 1.2rem;
+}
+.slider-img{
+    width: 100%;
+    height: 450px;
+    border-radius: 10px;
+}
+.left-box{
+    text-align: center;
+}
+.btn{
+    width: 70px;
+    height: 60px;
+    margin-top: 220px;
+}
+.right-box{
+    text-align: center;
+}
+.btn:hover{
+    background-color: #181D31;
+    padding: 10px;
+    border-radius: 100%;
+    height: 60px;
+}
+
+.custom{
+    text-align: left;
+    padding: 30px;
+}
+#rreview{
+    height: 150px;
+    width: 400px;
+}

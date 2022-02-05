@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.drop{
+    width: 150px;
+}
+.year{
+    width: 150px;
+    height: 45px;
+    text-align: center;
+}
+.box{
+    width: 800px;
+    margin-top: 50px;
+}
+.go{
+    text-align: left;
+}
+.output-box{
+    margin-top: 50px;
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: black;
+    height: 400px;
+    width: 800px;
+    text-align: left;
+}

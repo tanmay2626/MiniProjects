@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+.header{
+    margin-top: 40px;
+    text-align: center;
+}
+.box{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    margin-top: 60px;
+    height: 400px;
+    width: 450px;
+    padding-top: 30px;
+} 
+.dropdown-menu{
+    padding-right: 0;
+    width: 100px;
+}
+.side{
+    text-align: center;
+}
+.in{
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+}
+.input-box{
+    width: 100px;
+    text-align: center;
+    outline: none;
+}
+.out{
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+}
+.output-box{
+    width: 100px;
+    text-align: center;
+    outline: none;
+}
+.btn-box{
+    padding-top: 50px;
+    text-align: center;
+    justify-content: center;
+}
+.go{
+    width: 200px;
+}
